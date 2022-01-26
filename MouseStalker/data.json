@@ -1,0 +1,13 @@
+{
+	"choice": 0,
+	"datas": [
+		{
+			"name": "伽马幻象",
+			"paths": ["Haruka-1.png", "Haruka-2.png", "Haruka-3.png"],
+			"widths": [100, 100, 100],
+			"speeds": [2, 2, 2],
+			"radiuses": [150, 150, 150],
+			"angles": [0, 120, 240]
+		}
+	]
+}

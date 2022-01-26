@@ -1,0 +1,20 @@
+{
+	"sleep":{
+		"times":[
+			{"hour":22,"minute":0}
+		],
+		"message":"该睡觉啦。直播虽好，可不要贪D哦！",
+		"voice":"source\\LifeManage\\Sleep.wav",
+		"choice":["好好，我这就洗洗睡","残忍拒绝"]
+	},
+	"meal":{
+		"times":[
+			{"hour":7,"minute":0},
+			{"hour":11,"minute":0},
+			{"hour":16,"minute":50}
+		],
+		"message":"DD之余也要记得恰饭哦！",
+		"voice":"source\\LifeManage\\Meal.wav",
+		"choice":["好哒，我这就去恰饭","残忍拒绝"]
+	}
+}
