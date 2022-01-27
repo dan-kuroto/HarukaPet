@@ -2,6 +2,10 @@
 
 为虚拟UP主白神遥Haruka制作的桌面宠物软件
 
+## 功能介绍视频
+
+https://www.bilibili.com/video/BV1HZ4y1Z7Ut
+
 ## 注意
 
 - 该项目是一年前我刚学PyQt5时写的，代码可读性和可维护性非常差
